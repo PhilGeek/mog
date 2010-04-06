@@ -10,6 +10,7 @@ Directory includes source of the paper, "Before the Law", a critical examination
 
 # Contents #
 
-1. README.markdown
+1. .gitmodules
 2. mog.tex
 3. preamble/---a git submodule containing the LaTeX preamble
+4. README.markdown
